@@ -1,0 +1,75 @@
+#rectangle_1{
+	position: absolute; 
+    width:325px;
+    height:950px;
+    background:#a2f265;
+    left: 0px;
+    top: 0px;
+}
+
+#rectangle_2{
+	position: relative; 
+	background:#dbffdd;
+    width:305px;
+    height:10px;
+    left: 10px;
+    top: 0px;
+}
+
+#rectangle_3{
+	position: absolute; 
+	background:green;
+    width:150px;
+    height:10px;
+}
+
+#rectangle_4{
+	position: absolute; 
+	background:green;
+    width:75px;
+    height:10px;
+}
+
+#roundd
+{
+	position: relative;
+	top:20px;
+	left:10px;
+}
+
+   .round {
+    border-radius: 150px; /* Радиус скругления */
+    border: 3px solid #56c600	; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+   }
+  
+h1 {
+    font-family: Comic Sans MS; cursive; 
+   }
+   
+  p {
+font-family:  Comic Sans MS;  font-size: 16px;  
+   }
+ 
+.flex-container {
+  position: absolute; 
+  display: flex;
+  flex-direction: row;
+  left: 320px;
+  top: 0px;
+  padding: 10px;
+  background: #4fc704;
+  border-radius: 10px;
+  }
+.flex-item {
+  font-family:  Comic Sans MS;  font-size: 22px;  
+  width: 340px;
+  height: 900px;
+  margin: 10px;
+  padding: 5px;
+  background: #a2f265;
+  border-radius: 5px;
+  border: 1px solid #56c600;
+  }
+
+
